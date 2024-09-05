@@ -13,4 +13,4 @@ codenotext.r - R file of just the code, no explanations
 
 FINALYEAR(xx).CSV - each CSV gives the yearly result of the modified wOBA stat (named Run + wOBA Lite in the paper, but just wOBA in this Stat sheet for brevity) and modified wRAA (labeled wRAA here) 
 
-AAGPBLAdvancedStats.xlsx - Shows modified stats for all players in all years in one place, properly labelled 
+AAGPBLAdvancedStats.xlsx - Shows modified stats for all players in all years in one place, properly labelled. Includes linear weights by year, games per season, and runs per game in second sheet 
